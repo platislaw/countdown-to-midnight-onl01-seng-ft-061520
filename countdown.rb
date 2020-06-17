@@ -12,5 +12,4 @@ end
 
 
 def countdown_with_sleep(sleep)
-  sleep(4.minutes)
- 
+  sleep = 4.minutes
